@@ -2,8 +2,16 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "61566039",
+   "id": "c1dc0e39",
    "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "57315c47",
+   "metadata": {},
+   "outputs": [],
    "source": [
     "```mermaid\n",
     "flowchart TD\n",
@@ -33,12 +41,6 @@
     "    Q --> R\n",
     "```"
    ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "c1dc0e39",
-   "metadata": {},
-   "source": []
   }
  ],
  "metadata": {
